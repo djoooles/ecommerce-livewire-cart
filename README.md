@@ -3,7 +3,7 @@
 A complete e-commerce shopping cart system built with **Laravel**, **Livewire**, and **Tailwind CSS** as per the technical assessment requirements.
 
 ## 🚀 Live Demo
-- **URL:** [Add your deployment link here]
+- **URL:** []
 - **Admin Email:** admin@example.com
 - **Admin Password:** password
 
